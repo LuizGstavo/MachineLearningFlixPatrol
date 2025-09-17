@@ -226,7 +226,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-**Gustavo** - Desenvolvedor e Analista de Dados
+**Luiz Gustavo** - Estudante de Analise e Desenvolvimento de Sistemas
 
 - GitHub: [@seu-usuario](https://github.com/seu-usuario)
 - LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
@@ -239,22 +239,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - [Scikit-learn Documentation](https://scikit-learn.org/)
 - [Pandas Documentation](https://pandas.pydata.org/)
 
-## 🙏 Agradecimentos
-
-- Netflix pela inspiração dos dados
-- Comunidade Streamlit pelo framework incrível
-- Contribuidores do projeto
-
----
-
-⭐ **Se este projeto foi útil para você, considere dar uma estrela!** ⭐
-
-## 📞 Suporte
-
-Se você encontrar algum problema ou tiver dúvidas:
-
-1. Verifique a seção [Solução de Problemas](#-solução-de-problemas)
-2. Abra uma [Issue](https://github.com/seu-usuario/netflix-analytics-dashboard/issues)
-3. Entre em contato pelo email: seu-email@exemplo.com
-
-**Desenvolvido com ❤️ e ☕ para a comunidade de Data Science**
