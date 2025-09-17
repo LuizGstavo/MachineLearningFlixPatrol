@@ -228,12 +228,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Luiz Gustavo** - Estudante de Analise e Desenvolvimento de Sistemas
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seu-email@exemplo.com
-
-## 📚 Referências
-
 - [Streamlit Documentation](https://docs.streamlit.io/)
 - [Plotly Documentation](https://plotly.com/python/)
 - [Scikit-learn Documentation](https://scikit-learn.org/)
